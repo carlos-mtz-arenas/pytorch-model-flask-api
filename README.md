@@ -14,7 +14,7 @@ API para exponer un modelo para la clasificacion de imagenes
 python3 -m pip install -r requirements.txt
 ```
 
-# estructura
+# aplicacion
 
 ## iniciar la app
 
