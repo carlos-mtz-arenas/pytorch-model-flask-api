@@ -1,0 +1,6 @@
+__pycache__
+*.pyc
+*.log
+# ignore the models
+*.h5
+images/*.jpg
