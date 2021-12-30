@@ -21,8 +21,6 @@ def load_model():
 
 
 def image_transformer():
-    # normalizer and transofrmers are the same as the ones
-    # that we defined for the "test" phase during the training process
     normalizer = transforms.Normalize(
         [0.5, 0.5, 0.5],
         [0.5, 0.5, 0.5]
