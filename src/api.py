@@ -9,7 +9,7 @@ from werkzeug.datastructures import FileStorage
 from uuid import uuid4 as uuid
 import os
 
-from model_utils import load_model, image_transformer
+from src.model_utils import load_model, image_transformer
 
 (classes, model) = load_model()
 transformer = image_transformer()

@@ -2,4 +2,4 @@
 
 export PREDICTION_IMAGES_DIR="$(pwd)/images"
 
-python3 ./src/main.py
+python3 ./application.py

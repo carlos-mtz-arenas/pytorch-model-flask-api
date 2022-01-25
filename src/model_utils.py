@@ -2,7 +2,7 @@ import torch
 from torchvision import models, transforms
 import torch.nn as nn
 
-from model_meta.model_configuration import model_classes
+from src.model_meta.model_configuration import model_classes
 
 
 def load_model():
